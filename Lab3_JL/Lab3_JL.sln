@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab3_JL", "Lab3_JL\Lab3_JL.pyproj", "{318AA2C1-3695-4C12-91D7-944CD64F51B8}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Laboratoire_DirectShow_JL", "..\Laboratoire_DirectShow_JL\x64\Debug\Laboratoire_DirectShow_JL.exe", "{8E5C1600-EED3-48E8-B01E-AA533BB6045C}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Utilisateur\Desktop\Laboratoire_DirectShow_JL\x64\Debug\Laboratoire_DirectShow_JL.exe
+		RemoteMachine = JEY
+		StartingDirectory = C:\Users\Utilisateur\Desktop\Lab3_JL\Laboratoire_DirectShow_JL\x64\Debug
+		Environment = Par défaut
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318AA2C1-3695-4C12-91D7-944CD64F51B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318AA2C1-3695-4C12-91D7-944CD64F51B8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{318AA2C1-3695-4C12-91D7-944CD64F51B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318AA2C1-3695-4C12-91D7-944CD64F51B8}.Release|x64.ActiveCfg = Release|Any CPU
+		{8E5C1600-EED3-48E8-B01E-AA533BB6045C}.Debug|Any CPU.ActiveCfg = Release|x64
+		{8E5C1600-EED3-48E8-B01E-AA533BB6045C}.Debug|x64.ActiveCfg = Release|x64
+		{8E5C1600-EED3-48E8-B01E-AA533BB6045C}.Release|Any CPU.ActiveCfg = Release|x64
+		{8E5C1600-EED3-48E8-B01E-AA533BB6045C}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7001EBA6-7700-44E7-A838-2201FBCF70CD}
+	EndGlobalSection
+EndGlobal
